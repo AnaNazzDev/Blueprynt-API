@@ -13,6 +13,5 @@ gradle-app.setting
 # CI (managed locally, not needed by consumers)
 .github/
 
-# Gradle wrapper binary (binary, no value in repo)
-gradle/wrapper/gradle-wrapper.jar
+# Windows-only launcher
 gradlew.bat

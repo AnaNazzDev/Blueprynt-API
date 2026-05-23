@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Gradle wrapper — gradlew must be LF + executable on Linux (JitPack)
+gradlew text eol=lf
+gradle/wrapper/gradle-wrapper.jar binary
