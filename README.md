@@ -58,7 +58,7 @@ dependencies {
 </dependencies>
 ```
 
-Replace `VERSION` with the latest tag from the [Releases page](https://github.com/AnaNazzDev/Blueprynt-API/releases)
+Replace `VERSION` with the latest tag from the [Tags page](https://github.com/AnaNazzDev/Blueprynt-API/tags)
 
 ### plugin.yml
 
